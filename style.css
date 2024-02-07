@@ -1,0 +1,1080 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#navbar{
+    color: #fff;
+}
+
+
+/*----------Banner Start--------------*/
+.nigga{
+    Width:92px;
+    Height:756px;
+    background-color: #C4C4C4;
+    padding-top: 10%;
+    margin-right: 20px;
+    border-radius: 2%;
+    margin-left: 10%;
+}
+.four{
+    Width: 426px;
+    Height: 150px;
+    Top: 220px;
+    margin-top: 10%;
+    padding-right: 5%;
+}
+.ulti{
+    Width: 396px;
+    Height: 91px;
+    Font: Poppins;
+    font-weight: 500;
+    font-size: 91px;
+    letter-spacing:4%;
+}
+.sale{
+    Width: 394px;
+    Height: 187px;
+    font-weight: 500;
+    font-size: 187px;
+    row-gap: 100%;
+    color:#fff;
+    text-shadow: 0 0 8px rgba(0,0,0,5), 0 2px 4px rgba(0,0,0,0.7); 
+}
+.new{
+    width: 195px;
+    height: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    color: #484848;
+    margin-left: 27%;
+    margin-top: 8%;
+}
+.shop{
+    width: 207px;
+    height: 56px;
+    border-radius: 10px;
+    margin-top: 7%;
+    margin-left: 25%;
+}
+.two{
+    margin-top: 4%;
+}
+.curly{
+    width: 392px;
+    height: 570px;
+    top: 406px;
+}
+.curly-one{
+    Width:592px;
+    Height:756px;
+    background-color: #C4C4C4;
+    padding-top: 10%;
+    margin-right: 100px;
+    border-radius: 2%;
+    margin-right: 5px;
+}
+
+.m1{
+    width: 196px;
+    height: 33px;
+    margin-left: 58%;   
+}
+.m2{
+    width: 196px;
+    height: 33px;
+    margin-left: 60%;
+    margin-top: 55px;
+}
+.m3{
+    width: 196px;
+    height: 33px;
+    margin-left: 70%;
+}
+.m4{
+    width: 196px;
+    height: 33px;
+    margin-left: 80%;
+    margin-top: 10px;
+}
+.m5{
+    width: 196px;
+    height: 33px;
+    margin-left: 90%;
+}
+
+
+/*------------------Banner2------------------------*/
+#banner2{
+    background-color: #fafafa;
+}
+.deals{
+    font-family: Volkhov;
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 59px;
+    letter-spacing: 0em;
+    color: #484848;
+}
+.lorem{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    color: #8A8A8A;
+}
+.hurry{
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 42px;
+    letter-spacing: 0em;
+    color: #484848;
+}
+.angle{
+    width:30px;
+    height: 40px;
+    box-shadow: 0px 4px 14px 1px #00000029;
+    border: 1px;
+    margin-left: 40%;
+    text-align: center;
+    border-radius: 50%;
+    padding-top: 5px;
+    color: #B6B6B6;
+}
+.angle2{
+    width: 30px;
+    height: 40px;
+    box-shadow: 0px 4px 14px 1px #00000029;
+    border: 1px;
+    text-align: center;
+    border-radius: 50%;
+    padding-top: 5px;
+    margin-left: 43%;
+}
+.buy{
+    width: 207px;
+    height: 56px;
+    border-radius: 10px;
+}
+.products{
+    width: 120%;
+    height: 100%;
+    margin-left: 15%;
+}
+/*---------banner3----------*/
+.arrivals{
+    width: 289px;
+    height: 59px;
+    font-family: Volkhov;
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 59px;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 40%;
+}
+.lorem2{
+    width: 614px;
+    height: 52px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    margin-left: 33%;
+    color: #8A8A8A;
+}
+.lorem3{
+    width: 614px;
+    height: 52px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    margin-left: 35%;
+    color: #8A8A8A;
+}
+.mens{
+    width: 207px;
+    height: 56px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.mens2{
+    width: 207px;
+    height: 56px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 8%;
+}
+/*---------babber4--------*/
+.model{
+    width: 386px;
+    height: 438px;
+    border-radius: 10px;
+    box-shadow: 0px 40px 90px 0px #0000000F;
+    margin-bottom: 30%;
+    margin: 0 4%;
+}
+.word6{
+    width: 116px;
+    height: 30px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.star{
+    margin-left: 30%;
+}
+.al{
+    width: 56px;
+    height: 12px;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 12px;
+    text-align: left;
+    color: #8A8A8A;
+}
+.customer{
+    width: 149px;
+    height: 18px;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+}
+.money{
+    width: 82px;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: -0.01em;
+}
+.almost{
+    width: 94px;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: right;
+    margin-left: 44%;
+    color: #FF4646;
+}
+.view{
+    margin-left: 40%;
+    margin-bottom: 10%;
+}
+/*banne5*/
+.mini{
+    width: 148px;
+    height: 24px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #767676;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.peaky{
+    width: 334px;
+    height: 59px;
+    font-family: Volkhov;
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 59px;
+    letter-spacing: 0em;
+    color: #484848;
+    margin-left: 20%;
+}
+.descript{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 20%;
+}
+.ipsum{
+    width: 515px;
+    height: 96px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #767676;
+    margin-left: 20%;
+}
+.ll{
+    background: #DADADA;
+    width: 1118px;
+    height: 570px;
+}
+.start{
+    background-image: url('./img/bg.png');
+}
+.bg1{
+    background-image: url('./img/hard.png');
+    margin-left: 10%;
+}
+.bg2{
+    background-image: url('./img/bg2.png');
+}
+/*banner6*/
+.mod1{
+    width: 265px;
+}
+.mod2{
+    width: 256px;
+}
+.follow{
+    width: 536px;
+    height: 59px;
+    font-family: Volkhov;
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 59px;
+    margin-left: 40%;
+}
+.sit{
+    width: 614px;
+    height: 52px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    margin-left: 40%;
+    color: #8A8A8A;
+}
+.sit2{
+    width: 614px;
+    height: 52px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    margin-left: 40.5%;
+    color: #8A8A8A;
+}
+.size{
+    width: 34px;
+    height: 24px;
+    top: 4059px;
+    left: 1084px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8A8A8A;
+    margin-left: 20%;
+}
+.m{
+    width: 53px;
+    height: 28px;
+    top: 4057px;
+    left: 1133px;
+    border-radius: 10px;
+    background-color: black;
+    color: #fff;
+    padding: 5px 20px;
+}
+.pul{
+    width: 102px;
+    height: 42px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 42px;
+    margin-left: 20%;
+}
+.buy2{
+    width: 207px;
+    height: 56px;
+    border-radius: 10px;
+    margin-left: 20%;
+}
+/*banner7*/
+.this{
+    width: 716px;
+    height: 59px;
+    font-family: Volkhov;
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 59px;
+    letter-spacing: 0em;
+    margin-left: 30%;
+}
+.Subscribe{
+    width: 631px;
+    height: 59px;
+    font-family: Volkhov;
+    font-size: 46px;
+    font-weight: 500;
+    margin-top: 60%;
+    margin-left: 0%;
+    color: #484848;
+}
+.amet{
+    width: 614px;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 400;
+    text-align: center;
+    color: #8A8A8A;
+    line-height: 26px;
+    letter-spacing: 0em;
+    margin-left: 3%;
+}
+.banner7{
+    background-color: #9c9a9a;
+}
+.michael{
+    width: 228px;
+    height: 26px;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8A8A8A;
+    margin-left: 3%;
+}
+.now{
+    width: 207px;
+    height: 56px;
+    border-radius: 10px; 
+    margin-left: 33%;
+}
+    /* banner8 */
+.fasco2{
+    width: 105px;
+    height: 30px;
+}
+.blog{
+    margin-left: 40%;
+}
+.blog2{
+    margin-left: 50px;
+}
+.exciting{
+    width: 1920px;
+    height: 1077px;
+    border-radius: 10px;
+    box-shadow: 0px 40px 90px 0px #0000000F;
+    margin-bottom: 30%;
+    margin: 0 4%;
+}
+.border{
+    border-radius: 10px;
+    color: #767676;
+    margin-bottom: 30%;
+    margin: 0 4%;
+    padding: 65px 580px;
+
+}
+.saxy{
+    margin-top: 0%;
+}
+.fas{
+    margin-left:12%;
+    margin-top: 10%;
+}
+.in-sign{
+    width: 253px;
+    height: 40px;
+    font-family: Volkhov;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+    margin-left: 12%;
+}
+.google{
+    width: 182px;
+    height: 40px;
+    top: 318px;
+    left: 1216px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0.08em;
+    text-align: left;
+
+}
+.sotset{
+    color: black;
+    padding: 10px 1px;
+    width: 354px;
+    height: 56px;
+    top: 310px;
+    left: 1136px;
+    border-radius: 8px;
+    border: 1px;
+    margin-left: 12%;
+    margin-top: 5%;
+    display: inline;
+}
+.or{
+    width: 46px;
+    height: 40px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.08em;
+    text-align: left;
+    color: #838383;
+}
+.orr{
+    margin-top: 10%;
+    margin-left: 43%;
+    margin-bottom: 5% ;
+}
+.email{
+    width: 628px;
+    height: 47px;
+    border: 1px;
+    color:  #9D9D9D;
+    margin-left: 12%;
+}
+.email-l{
+    width: 508px;
+    height: 25px;
+    margin-left: 20%;
+    margin-top: 1%;
+    color:  #9D9D9D;
+
+}
+.footer-btn{
+    width: 575px;
+    height: 50px;
+    border-radius: 10px; 
+    margin-left: 12%;
+}
+
+
+/* responsive */
+
+@media only screen and (max-width:600px){
+    /* banner */
+    .nigga{
+        Width:492px;
+        Height:756px;
+        padding-top: 10%;
+        margin-right: 0px;
+        margin-left: 0%;
+    }
+    .four{
+        Width: 426px;
+        Height: 150px;
+        Top: 220px;
+        Left: 747px;
+        margin-bottom: 139%;
+    }
+    .ulti{
+        Width: 306px;
+        Height: 91px;
+        font-weight: 500;
+        font-size: 76px;
+    }
+    .sale{
+        Width: 304px;
+        Height: 187px;
+        font-weight: 500;
+        font-size: 157px;
+    }
+    .m1{
+        width: 196px;
+        height: 33px;
+        margin-left: 8%;
+        
+    }
+    .m2{
+        width: 196px;
+        height: 33px;
+        margin-left: 0%;
+        margin-top: 55px;
+    }
+    .m3{
+        width: 196px;
+        height: 33px;
+        margin-left: 0%;
+    }
+    .m4{
+        width: 196px;
+        height: 33px;
+        margin-left: 0%;
+        margin-top: 10px;
+    }
+    .m5{
+        width: 196px;
+        height: 33px;
+        margin-left: 53%;
+    }
+    .curly{
+        width: 382px;
+        height: 570px;
+        top: 426px;
+    }
+    .curly-one{
+        Width:592px;
+        padding-top: 15%;
+        margin-right: 0px;
+    }
+    /*banner2*/
+
+    .arrivals{
+        margin-left: 10%;
+
+    }
+    .products{
+        width: 100%;
+        height: 100%;
+        margin-left: 0;
+    }
+    /*banner3*/
+    .mens{
+        width: 190px;
+    }
+    .mens2{
+        width: 190px;
+        margin-left: 5%;
+    }
+    .lorem2{
+        margin-left: 0%;
+    }
+    .lorem3{
+        margin-left: 0%;
+    }
+    .model{
+        width: 386px;
+        height: 438px;
+        margin-bottom: 30%;
+        margin: 0 0%;
+    }
+    .bg1{
+        background-image: none;
+         display: none;
+    }
+    .bg2{
+        background-image: none;
+    }
+    .view{
+        margin-left: 0%;
+        margin-bottom: 10%;
+    }
+    .mini{
+        margin-left: 0%;
+        margin-top: 10%;
+    }
+    .peaky{
+        width: 334px;
+        height: 59px;
+        font-size: 46px;
+        margin-left: 0%;
+    }
+    .descript{
+        margin-left: 0%;
+    }
+    .ipsum{
+        margin-left: 0%;
+    }
+    .size{
+        margin-left: 0%;
+    }
+    .pul{
+        margin-left: 0%;
+    }
+    .follow{
+        width: 357px;
+        height: 49px;
+        font-size: 36px;
+        margin-left: 0%;
+    }
+    .sit{
+        margin-left: 0%;
+    }
+    .sit2{
+        margin-left: 0%;
+    }
+    .Subscribe{
+        width: 357px;
+        height: 75px;
+        font-size: 36px;
+        font-weight: 500;
+        margin-top: 60%;
+        margin-left: 0%;
+    }
+    .amet{
+        margin-left: 0%;
+    }
+    .now{ 
+        margin-left: 0%;
+    }
+    .blog{
+        margin-left: 0%;
+    }
+    .blog2{
+        margin-left: 0px;
+    }
+    .sotset{
+        padding: 8px 3px;
+        margin-left: 28%;
+    }
+    .orr{
+        margin-left: 28%;
+        margin-bottom: 2% ;
+    }
+    .email-l{
+        width: 240px;
+        height: 25px;
+        margin-left: 12%;
+        margin-top: 1%;
+    }
+    .footer-btn{
+        width: 240px;
+        height: 50px;
+        border-radius: 10px; 
+        margin-left: 12%;
+    }  
+}
+@media only screen and (min-width:600px) and (max-width:1024px){
+    /* banner */
+    #banner2{
+        background-color: #fff;
+        width: 100%;
+    }
+    .nigga{
+        Width:292px;
+        Height:365px;
+        margin-right: 8%;
+        margin-left: 5%;
+    }
+    .four{
+        Width: 526px;
+        Height: 250px;
+        margin-top: 0%;
+        margin-right: 10%;
+    }
+    .ulti{
+        Width: 196px;
+        Height: 30px;
+        font-size: 40px;
+    }
+    .m4{
+        margin-top: 25px;
+    }
+    .m5{
+        margin-top: 15px;
+    }
+    /*banner3*/
+    .arrivals{
+        margin-left: 35%;
+    }
+    .lorem2{
+        margin-left: 27%;
+    }
+    .lorem3{
+        margin-left: 30%;
+    }
+    .mens2{
+        margin-left: 86%;
+    }
+    .mens{
+        margin-left: 80%;
+    }
+    .model{
+        margin-left: 32%;
+    }
+    /*banner5*/
+    .bg2{
+        background-image: none;
+    }
+    /*banner6*/
+    .follow{
+        margin-left: 25%;
+    }
+    .sit{
+        margin-left: 25%;
+    }
+    .sit2{
+        margin-left: 26%;
+    }
+    /*banner7*/
+    .Subscribe{
+        width: 400px;
+        font-size: 30px;
+    }
+    .gray{
+        margin-left: 0%;
+    }
+    .amet{
+        margin-left: 0%;
+    }
+    .now{
+        margin-left: 0;
+    }
+    .banner7-hr{
+        display: none;
+    }
+    /*banner8*/
+    .blog{
+        margin-left: 0;
+    }
+    .blog2{
+        margin-left: 0;
+    }
+    .email-l{
+        width: 280px;
+    }
+    .footer-btn{
+        width: 308px;
+    }
+    .shop{
+        width: 180px;
+        height: 56px;
+        margin-top: 0%;
+        margin-left: 0%;
+    }
+    .sale{
+        Width: 394px;
+        Height: 90px;
+        font-size: 87px;
+    }
+    .new{
+        width: 195px;
+        height: 25px;
+        font-size: 20px;
+        margin-left: 0%;
+        margin-top: 0%;
+    }
+    .curly-one{
+        Width:592px;
+        Height:365px;
+        padding-top: 10%;
+        margin-right: 0px;
+    }
+    .products{
+        width: 100%;
+        height: 100%;
+        margin-left: 0%;
+    }
+    .lorem2{
+        margin-left: 27%;
+    }
+    .lorem3{
+        margin-left: 33%;
+    }
+}
+@media only screen and (min-width:1024px) and (max-width:1400px){
+    .nigga{
+        Width:82px;
+        Height:500px;
+    }
+    .four{
+        Width: 426px;
+        margin-top: 10%;
+        padding-right: 5%;
+    }
+    .ulti{
+        Width: 306px;
+        font-size: 51px;
+        margin-top: 5%;
+    }
+    .sale{
+        Height: 127px;
+        font-size: 107px;
+        margin-top: 5%;
+    }
+    .new{
+        margin-left: 0%;
+        margin-top: 2%;
+    }
+    .shop{
+        margin-top: 10%;
+        margin-left: 2%;
+    }
+    .two{
+        margin-top: 8%;
+    }
+    .curly-one{
+        Width:82px;
+        Height:500px;
+    }
+    .m5{
+        margin-top: 5%;
+    }
+    .m4{
+        margin-top: 12%;
+    }
+    .mens2{
+        margin-top: 10px;
+        margin-left: 320%;
+    }
+    .model{
+        width: 486px;
+        height: 438px;
+        margin-bottom: 30%;
+        margin: 0 4%;
+    }
+    .bg1{
+        display: none;   
+    }
+    .ipsum{
+        margin-left:15%;
+    }
+    .mini{
+        margin-left: 15%;
+        margin-top: 10%;
+    }
+    .peaky{
+        margin-left: 15%;
+    }
+    .descript{
+        margin-left: 15%;
+    }
+    .size{
+        margin-left: 15%;
+    }
+    .pul{
+        margin-left: 15%;
+    }
+    .buy2{
+        margin-left: 15%;
+    }
+    .google{
+        margin-left: 25%;
+    }  
+}
+@media only screen and (min-width:1280px) and (max-width:1300px){
+    .nigga{
+        Width:82px;
+        Height:600px;
+        margin-left: 15%;
+    }
+    .four{
+        Width: 426px;
+        margin-top: 10%;
+        padding-right: 5%;
+        margin-left: 3%;
+    }
+    .ulti{
+        Width: 6px;
+        height: 60px;
+        font-size: 61px;
+        margin-top: 5%;
+    }
+    .sale{
+        Height: 117px;
+        font-size: 117px;
+        margin-top: 5%;
+    }
+    .new{
+        margin-left: 0%;
+        margin-top: 8%;
+        height: 20px;
+        width: 280px;
+    }
+    .shop{
+        margin-top: 10%;
+        margin-left: 2%;
+        width: 280px ;
+    }
+    .two{
+        margin-top: 8%;
+    }
+    .curly-one{
+        Width:82px;
+        Height:600px;
+        margin-left: 5%;
+    }
+    /*banner2*/
+    .m5{
+        margin-top: 5%;
+    }
+    .m4{
+        margin-top: 12%;
+    }
+    .mens2{
+        margin-top: 10px;
+        margin-left: 320%;
+    }
+    .model{
+        width: 486px;
+        height: 438px;
+        margin-bottom: 30%;
+        margin: 0 4%;
+    }
+    .bg1{
+        display: none;   
+    }
+    .bg2{
+        display: none;
+    }
+    .ipsum{
+        margin-left:15%;
+    }
+    .mini{
+        margin-left: 15%;
+        margin-top: 10%;
+    }
+    .peaky{
+        margin-left: 15%;
+    }
+    .descript{
+        margin-left: 15%;
+    }
+    .size{
+        margin-left: 15%;
+    }
+    .pul{
+        margin-left: 15%;
+    }
+    .buy2{
+        margin-left: 15%;
+    }
+    .products{
+        width: 100%;
+        height: 100%;
+        margin-left: 0%;
+    }
+    .google{
+        width: 12px;
+        height: 60px;
+    }
+}
